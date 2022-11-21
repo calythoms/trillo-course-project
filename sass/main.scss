@@ -1,4 +1,8 @@
 @import './base/base';
-@import './component/component';
+@import './abstract/animations';
+@import './component/buttons';
+@import './component/gallery';
+@import './component/hotel-overview';
 @import './layout/layout';
 @import './layout/header';
+@import './layout/navigation';
