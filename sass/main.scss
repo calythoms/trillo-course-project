@@ -1,8 +1,12 @@
+@import './abstract/variables';
 @import './base/base';
 @import './abstract/animations';
 @import './component/buttons';
+@import './component/text';
 @import './component/gallery';
 @import './component/hotel-overview';
+@import './component/hotel-description';
 @import './layout/grid';
 @import './layout/header';
 @import './layout/navigation';
+@import './layout/hotel-detail';
